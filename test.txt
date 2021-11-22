@@ -1,2 +1,3 @@
 name:Suvigya
 Code: 799652458
+religion: athiest
